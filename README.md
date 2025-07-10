@@ -68,6 +68,7 @@ The report empowers business users to track KPIs, identify growth opportunities,
 
 - Microsoft Excel
 - Pivot Tables
+- Power Query
 - Slicers
 - Excel Formulas (IF, SUMIFS, % Change, etc.)
 - Conditional Formatting
