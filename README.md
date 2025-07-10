@@ -4,7 +4,7 @@
 
 AtliQ Hardware, a  manufacturing company,  The goal was to create an analytical Excel report that consolidates key business metrics and provides actionable insights across departments.
 
-## 📘 Project Overview
+## Project Overview
 
 This Excel-based project provides a detailed analysis of AtliQ Hardware’s sales and financial data across multiple dimensions. The report includes:
 
